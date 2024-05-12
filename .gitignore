@@ -4,5 +4,6 @@ _site
 _data/results/*
 _data/results-last-runs.json
 package-lock.json
+pnpm-lock.json
 .env
 .cache
